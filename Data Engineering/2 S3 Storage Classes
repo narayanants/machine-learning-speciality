@@ -1,0 +1,39 @@
+S3 Storage Classes
+
+ - Standard - General Purpose
+    - 99.99% Availability
+ - Standard - Infrequent Access
+    - 99.9% Availability
+ - One Zone IA
+    - 99.5% availability
+ - Glacier Instant Retrival
+ - Glacier Flexible Retrival
+ - Glacier Deep Archive
+ - S3 Intelligent Tiering
+
+
+
+    Glacier Storage Classes
+
+        - Instant Retrival
+            - Millisecond Retrival
+            - Minimum Storage Duration - 90 Days
+
+        - Flexible Retrival
+            - Expedited - 1-5 minutes
+            - Standard - 3-5 hours
+            - Bulk - 5-12 hours
+        - Deep Archive
+            - Standard - 12 hours
+            - Bulk - 48 hours
+
+    S3 Intelligent Tiering
+        - 99.9% Durability
+        - Frequent Access
+        - Infrequent Access
+        - Archive Instant Tier
+        - Archive Access Tier
+        - Deep Archive Access Tier
+
+
+        

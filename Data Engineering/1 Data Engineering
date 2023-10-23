@@ -1,0 +1,21 @@
+AWS S3
+
+    - 5 TB Storage
+    - Decoupling of S3
+    - Any file format
+
+
+
+    AWS Athena
+
+        By date- /year/month/day/hour/data_00.csv
+        By Product - /my-data-set/product-id/data_32.csv
+
+
+    AWS Services for Machine Learning
+
+
+        - AWS S3
+        
+
+
